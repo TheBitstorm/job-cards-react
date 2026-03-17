@@ -24,12 +24,6 @@ This project displays job openings using reusable components and clean UI design
 
 ---
 
-## 📸 Preview
-
-![App Screenshot](https://via.placeholder.com/800x400.png?text=Job+Cards+Preview)
-
----
-
 ## ▶️ Run Locally
 
 ```bash
