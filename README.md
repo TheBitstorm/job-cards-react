@@ -1,6 +1,6 @@
 # 💼 Job Cards React Website
 
-A modern job listing UI built using React and Vite.  
+A modern job listing UI built using React and Vite..
 This project displays job openings using reusable components and clean UI design.
 
 ---
